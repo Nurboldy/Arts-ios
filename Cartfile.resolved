@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.8.0"
+github "SDWebImage/SDWebImage" "4.4.3"
+github "SwiftyJSON/SwiftyJSON" "4.2.0"
+github "onevcat/Kingfisher" "5.0.1"
